@@ -14,11 +14,13 @@ Outside of work I run **CrumpNet**, a homelab built around real infrastructure w
 
 Technical write-ups, design decisions, and lessons learned are at **[crump.net](https://crump.net)** - written to be useful during an outage, to share with a colleague, or to revisit years later without reverse-engineering past decisions.
 
-## Shared tools
+## Code
+
+My repositories are on GitLab now: **[gitlab.com/crumpnet](https://gitlab.com/crumpnet)**. The public ones:
 
 | Repository | Description |
 |---|---|
-| [crump-tools](https://github.com/joshuacrump/crump-tools) | PowerShell scripts and configuration templates from the CrumpNet homelab |
+| [crump-tools](https://gitlab.com/crumpnet/crump-tools) | PowerShell scripts and configuration templates from the CrumpNet homelab |
 
 ## Contact
 
